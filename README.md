@@ -28,5 +28,5 @@ python main.py
 {'id': 44, 'entryTime': '08:06:10', 'departureTime': '08:06:12'}
 {'id': 51, 'entryTime': '08:06:11', 'departureTime': '08:06:12'}
 {'id': 61, 'entryTime': '08:06:11', 'departureTime': '08:06:12'}
-
+```
 https://github.com/fangpengcheng95/yolov8peoplecounter/assets/35449692/472ba9c3-399a-4909-9102-6f7f8b0b787a
