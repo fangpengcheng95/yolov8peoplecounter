@@ -17,6 +17,7 @@ python main.py
 ```
 ### 2. run result
 <img width="1020" alt="图片" src="https://github.com/fangpengcheng95/yolov8peoplecounter/assets/35449692/97f984b5-3cc1-4be3-bb2c-da268943b6b4">
+
 ```shell
 {'id': 11, 'entryTime': '08:06:08', 'departureTime': '08:06:09'}
 {'id': 47, 'entryTime': '08:06:09', 'departureTime': '08:06:09'}
