@@ -16,3 +16,5 @@ Step2. run
 python main.py
 ```
 ### 2. run result
+https://github.com/fangpengcheng95/yolov8peoplecounter/assets/35449692/472ba9c3-399a-4909-9102-6f7f8b0b787a
+
